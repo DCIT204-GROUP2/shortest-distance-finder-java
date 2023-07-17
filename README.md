@@ -42,9 +42,10 @@
 <ul>
 <li>Emmanuel Yartey (10987736) - S-yartey007</li>
 <li>Lartey Solomon (10980887) - GeekYbruCe</li>
-<li>Ivy Owusu(10985154) - IvyOwusu</li>
-<li>Lamptey Joseph Odarkwei(10953249)</li>
-<li>Marie-Pearl Akoto(10947903) - mariepearl</li>
-<li>Elisha Teye(10940920) - teyeelisha</li>
-<li>Audrey Amarh(10947541)- asheleyaudrey</li>
-<li> Osei- Bonsu Karlyn(10970624) - </li>
+<li>Ivy Owusu (10985154) - IvyOwusu</li>
+<li>Lamptey Joseph Odarkwei (10953249)</li>
+<li>Marie-Pearl Akoto (10947903) - mariepearl</li>
+<li>Elisha Teye (10940920) - teyeelisha</li>
+<li>Audrey Amarh (10947541)- asheleyaudrey</li>
+<li>Osei- Bonsu Karlyn (10970624) - 10970624 </li>
+<li>Asante Isaac Adomako(10951572) - Isaac-asante</li>
