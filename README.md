@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>UG Campus Route Finder</title>
 </head>
 <body>
 <h1>UG Campus Route Finder</h1>
