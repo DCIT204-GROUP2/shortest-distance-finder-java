@@ -20,7 +20,8 @@
 </ul>
 <h2>Installation</h2>
 <ol>
-<li>Clone the project repository from GitHub using the following command:
+<li>Clone the project repository from GitHub using the following command:<br>
+   git clone https://github.com/DCIT204-GROUP2/shortest-distance-finder-java.git 
 <li>Open the project in your preferred Java development environment (e.g., IntelliJ, Eclipse, etc.).</li>
 <li>Build the project to resolve dependencies and compile the source code.</li>
 <li>Ensure that the system has an active internet connection to retrieve map data and calculate distances and traffic conditions.</li>
