@@ -66,13 +66,14 @@ public class Main {
 
         map.printGraph();
 
-        System.out.println("\nChoose current location: ");
+        System.out.println("\nCampus locations: ");
         map.listPlaces(null);
-
+        
+        System.out.println("\nEnter location in full: ");
         String place = scanner.nextLine();
         Node source = map.getNodeByName(place);
 
-        System.out.println("\nChoose destination: ");
+        System.out.println("\nEnter destination in full: ");
         String place2 = scanner.nextLine();
 
         Node destination = map.getNodeByName(place2);
